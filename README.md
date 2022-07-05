@@ -22,5 +22,5 @@ Use this data to determine.
 
 5. Show by running inference for features to determine a flower species.
 
-It focuses on IRIS flower classification using Machine Learning . 
-Here some of algorithm are used.
+ It focuses on IRIS flower classification using Machine Learning . 
+ Here some of algorithm are used.
