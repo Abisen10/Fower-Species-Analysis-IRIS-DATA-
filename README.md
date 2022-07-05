@@ -1,8 +1,8 @@
-                            # Fower-species-analysis-using-iris-data# IRIS-Flower-classification
+                                 # Fower-species-analysis-using-iris-data# IRIS-Flower-classification
                                
                                                      
                                                                      
-                                             PROJECTS TO BE GIVEN - DATA SCIENCE
+                                                PROJECTS TO BE GIVEN - DATA SCIENCE
 
 <img src="https://miro.medium.com/max/875/1*7bnLKsChXq94QjtAiRn40w.png">
 
